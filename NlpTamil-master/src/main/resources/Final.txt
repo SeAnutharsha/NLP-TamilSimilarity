@@ -1,0 +1,42 @@
+﻿
+	1)  மழையில் குடையுடன் பெண்ணொருவர் புகையிரதத்திற்காக காத்திருக்கின்றார்.
+        A girl waiting in the rain with umbrella for train
+	    மழையில் பெண்ணொருத்தி புகையிரதத்திற்காக காத்திருக்கிறாள்
+        A girl waiting in the rain for train
+
+
+	2)  சைக்கிளில் வீரர் பயணிக்கின்றார்
+        Player riding a bicycle
+	    பறவை சிறகு விரித்துப் பறக்கிறது
+        Bird flying by using wings
+
+
+	3) 2 ஆசனங்கள் அதிகமாக தேவைப்படுவதனால் அமர முடியாது
+       2 more seats are needed. So they cannot sit
+       2 ஆசனங்கள் குறைவாக உள்ளதால் அமற முடியாது
+       2 seats less. So they cannot sit
+
+    4) 502 > 500 ஆசனங்கள். அவர்களல் அமர முடியாது
+        502>500 seats. So they cannot sit
+	    2 ஆசனங்கள் குறைவாக உள்ளதால் அமர முடியாது
+        2 seats less. So they cannot sit
+
+    5)  502 > 500 ஆசனங்கள். அவர்களல் அமர முடியாது
+        502>500 seats. So they cannot sit
+	    2 ஆசனங்கள் அதிகமாக தேவைப்படுவதனால் அமர முடியாது
+        2 more seats are needed. So they cannot sit
+
+    6) 502 > 500 ஆசனங்கள். அவர்களல் அமர முடியாது
+       502>500 seats. So they cannot sit
+       5 ஆசனங்கள் அதிகமாக தேவைப்படுவதனால் அமர முடியாது
+       5 more seats are needed. So they cannot sit
+
+    7) 2 ஆசனங்கள். அவர்களல் அமர முடியாது
+        two seats available. So they cannot sit
+        5 ஆசனங்கள் அதிகமாக தேவைப்படுவதனால் அமர முடியாது
+        5 seats available. So they cannot sit
+
+    8) 200,201,202 வரிசையில் உள்ளது
+       They are in 200,201,202 order
+       500,501,502 வரிசையில் உள்ளது
+       They are in 500,501,502 order
